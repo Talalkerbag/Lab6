@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_array">
+        <item>Ninguna seleccionada</item>
+        <item>rojo</item>
+        <item>azul</item>
+        <item>verde</item>
+        <item>blanco</item>
+        <item>gris</item>
+        <item>cyan</item>
+        <item>magenta</item>
+        <item>amarillo</item>
+    </string-array>
+</resources>
